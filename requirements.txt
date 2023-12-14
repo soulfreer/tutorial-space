@@ -4,3 +4,6 @@ nbsphinx>=0.4
 nbclean
 sphinx_rtd_theme
 sphinx_autodoc_typehints
+torch
+torch_geometric
+space-srt
