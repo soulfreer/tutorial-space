@@ -1,18 +1,15 @@
-.. scalex documentation master file, created by
-   sphinx-quickstart on Sun Mar  7 15:52:19 2021.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+
    
 |Stars| |PyPI| |PyPIDownloads| |Docs| 
 
-.. |Stars| image:: https://img.shields.io/github/stars/jsxlei/SCALEX?logo=GitHub&color=yellow
-   :target: https://github.com/jsxlei/SCALEX/stargazers
-.. |PyPI| image:: https://img.shields.io/pypi/v/scalex?logo=PyPI
-   :target: https://pypi.org/project/scalex
-.. |PyPIDownloads| image:: https://pepy.tech/badge/scalex
-   :target: https://pepy.tech/project/scalex
-.. |Docs| image:: https://readthedocs.com/projects/scalex/badge/?version=latest
-   :target: https://scalex.readthedocs.io
+.. |Stars| image:: https://img.shields.io/github/stars/zhangqf-lab/SPACE?logo=GitHub&color=yellow
+   :target: https://github.com/zhangqf-lab/SPACE
+.. |PyPI| image:: https://img.shields.io/pypi/v/space-srt.svg
+   :target: https://pypi.org/project/space-srt
+.. |PyPIDownloads| image:: https://pepy.tech/badge/space-srt
+   :target: https://pepy.tech/project/space-srt
+.. |Docs| image:: https://tutorial-space.readthedocs.io/en/latest/
+   :target: https://tutorial-space.readthedocs.io
    
 
 Online single-cell data integration through projecting heterogeneous datasets into a common cell-embedding space

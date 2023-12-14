@@ -4,11 +4,11 @@ Installation
 PyPI install
 ~~~~~~~~~~~~
 
-Pull SCALE from `PyPI <https://pypi.org/project/scalex>`__ (consider using ``pip3`` to access Python 3)::
+Pull SPACE from `PyPI <https://pypi.org/project/space-srt>`__ (consider using ``pip3`` to access Python 3)::
 
-    pip install scalex
+    pip install space-srt
 
-.. _from PyPI: https://pypi.org/project/scalex
+.. _from PyPI: https://pypi.org/project/space-srt
 
 
 Pytorch

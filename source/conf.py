@@ -17,17 +17,17 @@ from datetime import datetime
 sys.path.insert(0, os.path.abspath(__file__+'../../../..'))
 
 
-import scalex
+import space
 
 # -- Project information -----------------------------------------------------
 
-project = 'SCALEX'
-author = scalex.__author__
+project = 'SPACE'
+author = "Yuzhe Li, Jinsong Zhang"
 copyright = f'{datetime.now():%Y}, {author}.'
 
 
 # The full version, including alpha/beta/rc tags
-release = scalex.__version__
+release = space.__version__
 
 
 # -- General configuration ---------------------------------------------------
@@ -83,14 +83,14 @@ html_theme = 'sphinx_rtd_theme'
 html_theme_options = dict(navigation_depth=4, logo_only=True)  # Only show the logo
 html_context = dict(
     display_github=True,  # Integrate GitHub
-    github_user='jsxlei',  # Username
-    github_repo='SCALEX',  # Repo name
+    github_user='soulfreer',  # Username
+    github_repo='tutorial-space',  # Repo name
     github_version='main',  # Version
-    conf_py_path='/docs/',  # Path in the checkout to the docs root
+    conf_py_path='/source/',  # Path in the checkout to the docs root
 )
 html_static_path = ['_static']
 html_show_sphinx = False
-html_logo = '_static/img/logo_white.png'
+html_logo = '_static/img/SPACE_logo.png'
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
