@@ -17,7 +17,7 @@ from datetime import datetime
 sys.path.insert(0, os.path.abspath(__file__+'../../../..'))
 
 
-import space
+# import space
 
 # -- Project information -----------------------------------------------------
 
@@ -27,7 +27,7 @@ copyright = f'{datetime.now():%Y}, {author}.'
 
 
 # The full version, including alpha/beta/rc tags
-release = space.__version__
+release = "0.6.9" #space.__version__
 
 
 # -- General configuration ---------------------------------------------------
