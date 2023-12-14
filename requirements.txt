@@ -6,7 +6,6 @@ sphinx_rtd_theme
 sphinx_autodoc_typehints
 torch
 torch_geometric
-pyg_lib
 torch_scatter
 torch_sparse
 torch_cluster
