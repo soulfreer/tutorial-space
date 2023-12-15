@@ -27,7 +27,6 @@ Online single-cell data integration through projecting heterogeneous datasets in
    tutorial/index
    installation
    usage
-   api/index
    news
    release/index
 
