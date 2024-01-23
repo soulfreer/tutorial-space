@@ -1,7 +1,7 @@
 Tutorial
 =========
 
-`Spatially-informed cell type identification (To be Updated)  <../tutorial/Integration_PBMC.ipynb>`_
+`Spatially-informed cell type identification (To be Updated)  <../tutorial/spatial_celltype_slice153.ipynb>`_
 --------------------
 
 
@@ -14,7 +14,7 @@ Examples
 .. toctree::
     :maxdepth: 2
     :hidden:
-    
+    spatial_celltype_slice153
     SPACE_young
     sim_SPACE
 
