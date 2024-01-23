@@ -1,7 +1,7 @@
 Tutorial
 =========
 
-`Spatially-informed cell type identification (To be Updated)  <../tutorial/spatial_celltype_slice153.ipynb>`_
+`Spatially-informed cell type identification  <../tutorial/spatial_celltype_slice153.ipynb>`_
 --------------------
 
 
