@@ -8,15 +8,15 @@ Tutorial
 `Tissue module discovery <../tutorial/SPACE_young.ipynb>`_
 -------------
 
-Examples
+`Simulation dataset <../tutorial/sim_SPACE.ipynb>`_
 --------
 
-.. toctree::
-    :maxdepth: 2
-    :hidden:
-    spatial_celltype_slice153
-    SPACE_young
-    sim_SPACE
+.. .. toctree::
+..     :maxdepth: 2
+..     :hidden:
+..     spatial_celltype_slice153
+..     SPACE_young
+..     sim_SPACE
 
     
     

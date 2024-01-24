@@ -12,7 +12,7 @@
    :target: https://tutorial-space.readthedocs.io
    
 
-Online single-cell data integration through projecting heterogeneous datasets into a common cell-embedding space
+SPatial transcriptomics Analysis via Cell Embedding
 ----------------
 
 .. include:: contributors.rst
