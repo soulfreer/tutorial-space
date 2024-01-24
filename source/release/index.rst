@@ -3,7 +3,7 @@ Release
 
 
 
-Version 1.0
+Version 0.6.9
 -----------
 
-.. include:: 1.0.0.rst
+.. include:: 0.6.9.rst

@@ -1,5 +1,5 @@
-1.0.0 :small:`2022-08-29`
+0.6.9 :small:`2023-06-30`
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Online single-cell data integration through projecting heterogeneous datasets into a common cell-embedding space
+SPatial transcriptomics Analysis via Cell Embedding
 
